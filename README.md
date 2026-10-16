@@ -8,7 +8,7 @@ Menu bar app for the MCHOSE G75 Pro on macOS. Talks to the 2.4G dongle directly 
 
 Only tested with the G75 Pro over the 2.4G dongle. Not affiliated with MCHOSE.
 
-UI inspired by Vorssaint.
+UI inspired by [Vorssaint](https://github.com/vorssaint/vorssaint-utils).
 
 ## Build
 
